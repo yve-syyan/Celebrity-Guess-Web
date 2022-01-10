@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1170af70.chunk.css",
+    "main.js": "/static/js/main.800d3729.chunk.js",
+    "main.js.map": "/static/js/main.800d3729.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9915beec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9915beec.js.map",
+    "static/js/2.740c62ea.chunk.js": "/static/js/2.740c62ea.chunk.js",
+    "static/js/2.740c62ea.chunk.js.map": "/static/js/2.740c62ea.chunk.js.map",
+    "static/js/3.ed047f01.chunk.js": "/static/js/3.ed047f01.chunk.js",
+    "static/js/3.ed047f01.chunk.js.map": "/static/js/3.ed047f01.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1170af70.chunk.css.map": "/static/css/main.1170af70.chunk.css.map",
+    "static/js/2.740c62ea.chunk.js.LICENSE.txt": "/static/js/2.740c62ea.chunk.js.LICENSE.txt",
+    "static/media/Bulbasaur.07df7dd3.png": "/static/media/Bulbasaur.07df7dd3.png",
+    "static/media/Caterpie.2151302f.png": "/static/media/Caterpie.2151302f.png",
+    "static/media/Clefairy.17df13f8.png": "/static/media/Clefairy.17df13f8.png",
+    "static/media/Dugtrio.6ae48925.png": "/static/media/Dugtrio.6ae48925.png",
+    "static/media/Ivysaur.adc44080.png": "/static/media/Ivysaur.adc44080.png",
+    "static/media/Nidoking.8c768582.png": "/static/media/Nidoking.8c768582.png",
+    "static/media/Ninetales.2ba31ecc.png": "/static/media/Ninetales.2ba31ecc.png",
+    "static/media/Psyduck.14594b6d.png": "/static/media/Psyduck.14594b6d.png",
+    "static/media/Venusaur.793403ab.png": "/static/media/Venusaur.793403ab.png",
+    "static/media/Vileplume.23f8a6ff.png": "/static/media/Vileplume.23f8a6ff.png",
+    "static/media/Zubat.c7d5780b.png": "/static/media/Zubat.c7d5780b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9915beec.js",
+    "static/js/2.740c62ea.chunk.js",
+    "static/css/main.1170af70.chunk.css",
+    "static/js/main.800d3729.chunk.js"
+  ]
+}
